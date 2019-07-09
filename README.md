@@ -1,16 +1,18 @@
-# magic_8_ball
+## Magic 8 Ball (Flutter)
 
-A new Flutter project.
+Aplicação para solucionar todas suas dúvidas, desenvolvida em [Flutter](https://flutter.dev/) para estudos.
 
-## Getting Started
+## Imagens
 
-This project is a starting point for a Flutter application.
+![alt text](screenshot.png "Prévia da aplicação")
 
-A few resources to get you started if this is your first Flutter project:
+## Feito com
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Material Design](https://material.io/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+## Autor
+
+- **Robson Silva** - _Trabalho inicial_ - [robsonsilv4](https://github.com/robsonsilv4)
